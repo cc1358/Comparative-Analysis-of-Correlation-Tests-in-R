@@ -6,8 +6,5 @@ Pearson's test is more powerful for bivariate normal distributions
 Nonparametric tests can outperform Pearson for certain non-normal distributions
 The project includes extensive R code with:
 
-Simulation functions
-Power calculations
-Visualization
-Statistical analysis
-Comprehensive documentation
+Simulation functions, Power calculations, Visualization,and Statistical analysis
+
